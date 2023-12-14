@@ -1,0 +1,2 @@
+# requirements.txt
+SQLAlchemy==1.4.25
